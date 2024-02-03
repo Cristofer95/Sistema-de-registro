@@ -6,6 +6,6 @@
 
 ```np instal react```
 
-(NOTA= todo este documento fue creado para testear las funcionalidades de GIThub
+(NOTA= todo este documento fue creado para testear las funcionalidades de Git y github)
 
 Sistema de registro 2
